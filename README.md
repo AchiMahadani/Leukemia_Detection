@@ -1,2 +1,1 @@
-git clone https://github.com/yourusername/leukemia-detection-vit.git
-cd leukemia-detection-vit
+[README.md](https://github.com/user-attachments/files/17288542/README.md)
